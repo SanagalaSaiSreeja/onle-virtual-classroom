@@ -1,0 +1,32 @@
+<html>
+<head>
+<style>
+body{
+background-image:url('s.jpg');
+background-size:cover;
+}
+</style>
+</head>
+<body text="maroon">
+<h2 align="center" style="color:Tomato"> REGISTRATION FORM</h1><br><br><br>
+<center><label>NAME:</label>&nbsp
+<input type="text" name=name" size="30"><br><br>
+<center><label>Rollno:</label>&nbsp
+<input type="text" size="10"><br><br>
+<center><label>Date:</label>&nbsp
+<select>
+<option>01</option>
+<option>02</option>
+<option>03</option>
+<option>04</option>
+<option>05</option>
+</select>&nbsp
+<label>Month</label>
+<select>
+<option>jan</option>
+<option>feb</option>
+<option>mar</option>
+<option>apr</option>
+<option>may</option>
+</body>
+</html>
